@@ -1,0 +1,4 @@
+alice,password123
+bob:Qwerty!23
+carol Tr0ub4dor&3
+dave, 6LQ9t*Um7gdi
